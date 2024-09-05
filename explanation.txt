@@ -1,0 +1,10 @@
+Llaga, Danilo Jr., F.
+BSCpE-4B
+
+I designed a responsive navigation bar that would work efficiently on different devices. 
+The base is of HTML with semantic structure, while the CSS adds some life to it through a centered, 800px maximum-width design 
+with dark blue scheme for better readability and hover animation in both the nav bar and dropdown menu.
+
+The JavaScript intelligently toggles the dropdown menu on mobile devices.
+You will also note that on larger screens and smaller screens, it goes horizontal, 
+complete with a dropdown on hover, while toggle click on smaller devices.
